@@ -1,0 +1,13 @@
+[
+  {
+    "id": "miowmtbw02ne9y0kd1r",
+    "userId": "p23kDqscy1UP0GCwfCgrDHxnEPa2",
+    "email": "nyro@gmail.com",
+    "action": "login",
+    "ipAddress": "::ffff:127.0.0.1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "timestamp": "2025-12-02T18:21:32.540Z",
+    "success": true,
+    "errorMessage": null
+  }
+]
