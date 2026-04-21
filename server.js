@@ -27,7 +27,7 @@ app.use(helmet());
 const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:3000',
-  'https://cyriontrade1.vercel.app',
+  'https://cyriontrade2.vercel.app',
   'https://cyriontrade-himo.vercel.app',
   'https://cyriontrade-backend.vercel.app',
   process.env.CLIENT_URL
